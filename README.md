@@ -1,2 +1,2 @@
 # HackerRank-Solutions
-##SQL&ProblemSolving
+SQL&ProblemSolving
